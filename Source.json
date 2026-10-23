@@ -1,0 +1,23 @@
+{
+  "name": "Delta Roblox",
+  "identifier": "com.gloop.deltamobile",
+  "subtitle": "A collection of my favorite apps",
+  "description": "Hosted via GitHub Pages",
+  "iconURL": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/icon.png",
+  "website": "https://github.com/YourUsername/YourRepo",
+  "apps": [
+    {
+      "name": "Example App",
+      "bundleIdentifier": "com.gloop.deltamobile",
+      "developerName": "Developer Name",
+      "version": "2.743.1134 (2.743.1134)",
+      "versionDate": "2026-10-24",
+      "versionDescription": "Initial release",
+      "downloadURL": "https://example.com/app.ipa",
+      "localizedDescription": "A short description of what your app does.",
+      "iconURL": "https://example.com/icon.png",
+      "size": 10485760
+    }
+  ],
+  "news": []
+}
